@@ -23,8 +23,8 @@ social:
 
 # Customize site textindex
 pagination:
-  next_page: '下一页'
-  previous_page: '上一页'
+  next_page: '上一页'
+  previous_page: '下一页'
 
 sharing_button_prompt: '立即分享!'
 

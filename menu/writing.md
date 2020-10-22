@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: 存档
 ---
 <ul class="posts">
   {% for post in site.posts %}

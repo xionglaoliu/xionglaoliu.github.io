@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "lagrange"
+  spec.name          = "地瓜熊老六"
   spec.version       = "3.0.7"
-  spec.authors       = ["Paul Le"]
-  spec.email         = ["l.nguyen.paul@gmail.com"]
+  spec.authors       = ["地瓜熊老六"]
+  spec.email         = ["laoliu@xlaoliu.com"]
 
-  spec.summary       = "A minimalist Jekyll theme for running a personal blog."
+  spec.summary       = "爱国小分队队长"
   spec.homepage      = "https://github.com/LeNPaul/Lagrange"
   spec.license       = "MIT"
 

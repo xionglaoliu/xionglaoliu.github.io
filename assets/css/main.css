@@ -18,7 +18,7 @@
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Microsoft YaHei", "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
@@ -109,13 +109,17 @@ hr {
 }
 
 .masthead-title a {
-  font-size: 2rem;
+  font-size: 1.8rem;
   text-decoration: none;
   color: #505050;
+  margin-right: 8px;
+  letter-spacing: 4px;
 }
 
 .masthead-subtitle {
   color: #999;
+  font-weight: normal;
+  font-size: 14px;
 }
 
 /*

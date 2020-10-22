@@ -145,11 +145,17 @@ hr {
 .post-container {
   margin-bottom: 4rem;
 }
+.post-container h1 {
+  line-height: 2.4rem;
+}
 
 .posts {
   margin-bottom: 5rem;
   padding: 0px;
   list-style: none;
+}
+.posts h1 {
+  line-height: 2.4rem;
 }
 
 .post-date {
@@ -164,6 +170,7 @@ hr {
 @media (max-width: 30rem) {
   .posts h1 {
     font-size: 1.5rem;
+    line-height: 2rem;
   }
 }
 
